@@ -1,0 +1,7 @@
+[
+  { "name": "Ordinateur portable", "price": 999, "category": "Électronique", "stock": 10 },
+  { "name": "Clavier mécanique", "price": 79, "category": "Électronique", "stock": 50 },
+  { "name": "Chaise de bureau", "price": 199, "category": "Mobilier", "stock": 5 },
+  { "name": "Lampe LED", "price": 29, "category": "Éclairage", "stock": 20 },
+  { "name": "Smartphone", "price": 599, "category": "Électronique", "stock": 15 }
+]
